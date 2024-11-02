@@ -1,12 +1,34 @@
-body{
-   margin:0;
+body {
+    margin: 0;
 }
-nav{
+
+nav {
     top: -8px;
 }
-.d1{
+
+.d1 {
     background-color: #926FF6;
 }
-h6{
+
+.header-t1 {
     color: #FFE074 !important;
+}
+
+.i1 {
+    width: 100%;
+    height: 80%;
+}
+
+.p1{
+    color:#FFAE00;
+    
+}
+.p2{
+    padding-right: 150px;
+}
+.img1{
+}
+.h2{
+    padding-right: 90px;
+  position: ;
 }
