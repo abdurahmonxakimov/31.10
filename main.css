@@ -39,3 +39,40 @@ nav {
 .p-3{
 
 }
+
+.img-grid img{
+height: 350px;
+}
+
+.b1{
+    border-radius: 20px !important;
+}
+
+.b1:hover{
+ background: #F3849F !important;
+ color: #fff !important;
+}
+.end{
+    background-color: #F7EEFF !important;
+}
+
+
+.y-text{
+    text-align: center;
+     color: #FFAE00;
+}
+.h-6{
+    text-align: center;
+   color: #F7EEFF;
+    
+}
+.black{
+    background: #333333;
+}
+.h-5{
+    color: #F3849F !important;
+}
+.h-blue{
+    color: #926FF6 !important;
+    
+}
